@@ -20,15 +20,15 @@ Below, you will find instructions on how to set up and work on your own copy of 
 ## Week 1 - Introduction to Experimental Design
 - [Lecture Notes](https://github.com/abrown9008/STAT-7220-Applied-Experimental-Design/blob/main/Introduction%20to%20Experimental%20Design/Intro%20to%20Experimental%20Design.ipynb)
 
-## Week 2 - Completely Randomized Design (CRD)
+## Week 2 & 3 - Completely Randomized Design (CRD)
 - [Lecture Notes](https://github.com/abrown9008/STAT-7220-Applied-Experimental-Design/blob/main/Comparative%20Experiments/Introduction%20to%20Completely%20Randomized%20Designs.ipynb)
-
-## Week 3 - Multiple Comparisons and Assumption Checking for ANOVA Models
 - [Multiple Comparison Lecture Notes](https://github.com/abrown9008/STAT-7220-Applied-Experimental-Design/blob/main/Comparative%20Experiments/Multiple-Group-Comparisons.ipynb)
 - [Assumption Checking Lecture Notes](https://github.com/abrown9008/STAT-7220-Applied-Experimental-Design/blob/main/Comparative%20Experiments/Checking-ANOVA-Assumptions.ipynb)
+- [Dog Toys Example](https://github.com/abrown9008/STAT-7220-Applied-Experimental-Design/blob/main/Comparative%20Experiments/Dog%20Toys%20Example%20Solutions.ipynb)
 
 ## Week 4 - Randomized Block Design (RBD)
 - [Lecture Notes](https://github.com/abrown9008/STAT-7220-Applied-Experimental-Design/blob/main/Random%20Block%20Design%20and%20Latin%20Squares/Intro-to-Randomized-Block-Design.ipynb)
+- [Homework 1 DUE](https://github.com/abrown9008/STAT-7220-Applied-Experimental-Design/blob/main/Assignments/HW1/HW-1.ipynb)
 
 ## Week 5 - Latin Square Design (LSD)
 - [Lecture Notes](https://github.com/abrown9008/STAT-7220-Applied-Experimental-Design/blob/main/Random%20Block%20Design%20and%20Latin%20Squares/Intro-to-Latin-Square-Design.ipynb)
