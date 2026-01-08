@@ -33,20 +33,17 @@ Below, you will find instructions on how to set up and work on your own copy of 
 ## Week 5 - Latin Square Design (LSD)
 - [Lecture Notes](https://github.com/abrown9008/STAT-7220-Applied-Experimental-Design/blob/main/Random%20Block%20Design%20and%20Latin%20Squares/Intro-to-Latin-Square-Design.ipynb)
 
-## Week 6 - Midterm Exam
-- [Midterm](https://github.com/abrown9008/STAT-7220-Applied-Experimental-Design/blob/main/Assignments/Midterm-Exam/Midterm-Exam.ipynb)
-
-## Week 7 & 8 - Factorial Designs
+## Week 6 & 7 - Factorial Designs
 - [Lecture Notes](https://github.com/abrown9008/STAT-7220-Applied-Experimental-Design/blob/main/Factorial%20Designs/Intro-to-Factorial-Designs.ipynb)
 - [Example](https://github.com/abrown9008/STAT-7220-Applied-Experimental-Design/blob/main/Factorial%20Designs/Factorial-Design-Analysis-Example.ipynb)
+- [Homework 2 DUE](https://github.com/abrown9008/STAT-7220-Applied-Experimental-Design/blob/main/Assignments/HW2/HW-2.ipynb)
 
-## Week 9 - $2^2$ Factorial Designs
-- [Lecture Notes](https://github.com/abrown9008/STAT-7220-Applied-Experimental-Design/blob/main/Fractional%20Factorial%20Design/2-2-Factorial-Designs.ipynb)
+## Week 8 - $2^k$ Factorial Designs
+- [$2^2$ Lecture Notes](https://github.com/abrown9008/STAT-7220-Applied-Experimental-Design/blob/main/Fractional%20Factorial%20Design/2-2-Factorial-Designs.ipynb)
+- [$2^3$ Lecture Notes](https://github.com/abrown9008/STAT-7220-Applied-Experimental-Design/blob/main/Fractional%20Factorial%20Design/2-3-Factorial-Designs.ipynb)
+- [Midterm Exam DUE](https://github.com/abrown9008/STAT-7220-Applied-Experimental-Design/blob/main/Assignments/Midterm-Exam/Midterm-Exam.ipynb)
 
-## Week 10 - $2^3$ Factorial Designs
-- [Lecture Notes](https://github.com/abrown9008/STAT-7220-Applied-Experimental-Design/blob/main/Fractional%20Factorial%20Design/2-3-Factorial-Designs.ipynb)
-
-## Week 11 & 12 - Two-Level Fractional Factorial Designs
+## Week 10 & 12 - Two-Level Fractional Factorial Designs
 - [Lecture Notes](https://github.com/abrown9008/STAT-7220-Applied-Experimental-Design/blob/main/Fractional%20Factorial%20Design/One-Half-Fractional-Factorial-Designs.ipynb)
 - [Example](https://github.com/abrown9008/STAT-7220-Applied-Experimental-Design/blob/main/Fractional%20Factorial%20Design/One-Half-Fractional-Factorial-Design-Example.ipynb)
 
